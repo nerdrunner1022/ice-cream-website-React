@@ -1,0 +1,6 @@
+{
+  "name": "VELVET & CONE",
+  "description": "Artisanal Small-Batch Gelato & Ice Cream Atelier with seasonal tasting menu, boutique pickup scheduling, and operations portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
